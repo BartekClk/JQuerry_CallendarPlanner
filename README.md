@@ -1,2 +1,2 @@
-### Kanban callendar planner
+# Kanban callendar planner
 ## Made as on lesson task
